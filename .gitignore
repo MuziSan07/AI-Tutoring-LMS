@@ -1,0 +1,9 @@
+node_modules/
+frontend/dist/
+__pycache__/
+*.db
+backend/.secret_key
+.claude/
+
+# client documents stay out of the repo
+*.pdf
